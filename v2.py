@@ -153,5 +153,5 @@ related_technologies = ["AI", "IoT", "5G", "quantum computing", "cloud computing
 risks = ["smart contract bugs", "network attacks", "regulatory uncertainty", "liquidity risks", "market volatility", "privacy breaches", "technical failures", "centralized exchanges", "adoption barriers", "forks in protocols"]
 
 # Fungsi utama untuk menghasilkan dan menyimpan dataset
-dataset = generate_dataset(10000)  # Generate 100 entries for the dataset
+dataset = generate_dataset(1500)  # Generate 100 entries for the dataset
 save_dataset(dataset, "dataset-v6.json")
